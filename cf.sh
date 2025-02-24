@@ -10,9 +10,9 @@ echo -e "\033[91;1m Note. contoh Subdomain :\033[0m \033[93mbebas112 \033[0m"
 echo -e " "
 read -p "SUBDOMAIN :  " domen
 echo -e ""
-DOMAIN=xmyh3nressx.my.id
+DOMAIN=arroezi.store
 sub=${domen}
-dns=${sub}xmyh3nressx.my.id
+dns=${sub}arroezi.store
 #(</dev/urandom tr -dc a-z0-9 | head -c5)
 dns=${sub}.inject.cloud
 CF_KEY=2592572cf18fdc46f03de9534ec787b3e6356
